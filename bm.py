@@ -1,6 +1,8 @@
 import requests
 
 #https://ticketmasterbr.queue-it.net/?c=ticketmasterbr&e=brunomarsvgbsb&cid=pt-BR&q=90ed7de7-18ec-4a19-8388-91e522f41006
+#https://ticketmasterbr.queue-it.net/?c=ticketmasterbr&e=brunomarspvbsb02&cid=pt-BR
+
 
 url = 'https://ticketmasterbr.queue-it.net/?c=ticketmasterbr&e=brunomarsvgbsb&cid=pt-BR&q=90ed7de7-18ec-4a19-8388-91e5'
 
